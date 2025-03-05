@@ -11,7 +11,7 @@ TimerChallenge è un minigioco sviluppato con React. L'obiettivo del gioco è in
 ### Funzionalità
 
 - **Start del Timer**: Clicca il bottone "Start Challenge" per avviare il timer.
-- **Indovina la Scadenza**: Cerca di avvicinarti alal scadenza del tiemr quanto più possibile senza farlo scadere del tutto.
+- **Indovina la Scadenza**: Cerca di avvicinarti alla scadenza del timer quanto più possibile senza farlo scadere del tutto.
 - **Verifica il Risultato**: Scopri quanto vicino sei arrivato alla scadenza del timer.
 
 ### Installazione
